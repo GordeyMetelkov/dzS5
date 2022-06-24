@@ -1,0 +1,15 @@
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\zadacha38.csproj.AssemblyReference.cache
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\zadacha38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\zadacha38.AssemblyInfoInputs.cache
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\zadacha38.AssemblyInfo.cs
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\zadacha38.csproj.CoreCompileInputs.cache
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\bin\Debug\net6.0\zadacha38.exe
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\bin\Debug\net6.0\zadacha38.deps.json
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\bin\Debug\net6.0\zadacha38.runtimeconfig.json
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\bin\Debug\net6.0\zadacha38.dll
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\bin\Debug\net6.0\zadacha38.pdb
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\zadacha38.dll
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\refint\zadacha38.dll
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\zadacha38.pdb
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\zadacha38.genruntimeconfig.cache
+C:\Users\gorde\OneDrive\Рабочий стол\gb\DZ_S5\zadacha38\obj\Debug\net6.0\ref\zadacha38.dll
